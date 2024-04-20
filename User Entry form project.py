@@ -118,34 +118,4 @@ ent6.grid(row=5,column=1,sticky='news')
 # b2.pack()
 # b3.pack()
 # b4.pack()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 root.mainloop()
